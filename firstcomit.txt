@@ -1,3 +1,4 @@
+//oh man what is up?
 function tellMeSomething(input){
 	if (input == true){
 	return "You are really cool";
