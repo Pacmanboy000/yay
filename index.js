@@ -1,3 +1,3 @@
 function something(){
-    return "hello";
+    return "hello man";
 }
